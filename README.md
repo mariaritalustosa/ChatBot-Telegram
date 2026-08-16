@@ -52,5 +52,5 @@ key_open_router=sua_key_open_router
 
 ### 5. Executar o bot
 ```bash
-python chatbot.py
+python chatbot_telegram.py
 ```
